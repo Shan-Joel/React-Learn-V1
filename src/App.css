@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  font-size: 2.5rem;
+}
+
+.App .para {
+  display: block;
+  width: 100%;
 }
 
 .App-logo {
